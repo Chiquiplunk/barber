@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	ignorecase = true
+[remote "servidorlocal"]
+	url = C:/Users/Computer/Desktop/Alure - ONE education/HTML5 y CSS3/servidorlocal/
+	fetch = +refs/heads/*:refs/remotes/servidorlocal/*
